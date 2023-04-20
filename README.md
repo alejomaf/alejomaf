@@ -45,9 +45,9 @@ Hi there! 👋 I'm Alejo, a Computer Engineer specialized in Information Technol
 
 Here are some of the projects I have worked on:
 
-- [Inventarium]([https://github.com/alejomaf/project1](https://github.com/alejomaf/UAL-Inventarium))
-- [Library manager]([https://github.com/alejomaf/project2](https://github.com/alejomaf/LibraryManager))
-- [Navigator]([https://github.com/alejomaf/project3](https://github.com/alejomaf/navigator))
+- [Inventarium](https://github.com/alejomaf/UAL-Inventarium)
+- [Library manager](https://github.com/alejomaf/LibraryManager)
+- [Navigator](https://github.com/alejomaf/navigator)
 
 Feel free to check them out and leave any feedback you may have!
 
