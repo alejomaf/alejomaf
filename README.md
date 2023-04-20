@@ -49,6 +49,6 @@ Feel free to check them out and leave any feedback you may have!
 
 ---
 
-If you're interested in collaborating on a project or if you have any questions, feel free to reach out to me at [alejomaf@outlook.com](mailto:alejomaf@outlook.com). I'm always open to new opportunities and ideas!
+If you're interested in hiring me for a project or if you have any questions, feel free to reach out to me at [alejomaf@outlook.com](mailto:alejomaf@outlook.com). I'm always open to new opportunities and ideas!
 
 
