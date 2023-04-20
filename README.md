@@ -19,15 +19,13 @@ Hi there! 👋 I'm Alejo, a Computer Engineer specialized in Information Technol
 - JavaScript
 - Python
 - Java
-- C#
 
 ### Web Technologies
 
 - HTML
 - CSS
 - Node.js
-- React
-- Angular
+- Angular TS
 
 ### Databases
 
@@ -36,7 +34,6 @@ Hi there! 👋 I'm Alejo, a Computer Engineer specialized in Information Technol
 
 ### Other Technologies
 
-- Git
 - Docker
 - Kubernetes
 - Agile methodologies (Scrum, Kanban)
