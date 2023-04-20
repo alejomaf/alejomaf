@@ -1,5 +1,5 @@
 
-[![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejomafo&count_private=true&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejomaf&count_private=true&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **alejomaf/alejomaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
