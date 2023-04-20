@@ -1,3 +1,4 @@
+[![Alejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejomaf&count_private=true&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 # Alejo Martín Arias Filippo (alejomaf)
 
 Hi there! 👋 I'm Alejo, a Computer Engineer specialized in Information Technologies and Software Engineering. I'm currently pursuing a Master's degree in Computer Engineering at the Universidad Carlos III de Madrid. My goal is to become a Project Manager focused on technological projects.
@@ -49,7 +50,5 @@ Feel free to check them out and leave any feedback you may have!
 ---
 
 If you're interested in collaborating on a project or if you have any questions, feel free to reach out to me at [alejomaf@outlook.com](mailto:alejomaf@outlook.com). I'm always open to new opportunities and ideas!
-
-[![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejomaf&count_private=true&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
