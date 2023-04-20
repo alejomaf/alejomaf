@@ -1,6 +1,6 @@
 # Alejo Martín Arias Filippo (alejomaf)
 
-![Profile Picture](https://avatars.githubusercontent.com/u/YourUserID?v=4)
+![Profile Picture]([https://avatars.githubusercontent.com/u/YourUserID?v=4](https://avatars.githubusercontent.com/u/44328355?v=4))
 
 Hi there! 👋 I'm Alejo, a Computer Engineer specialized in Information Technologies and Software Engineering. I'm currently pursuing a Master's degree in Computer Engineering at the Universidad Carlos III de Madrid. My goal is to become a Project Manager focused on technological projects.
 
