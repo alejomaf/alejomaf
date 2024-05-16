@@ -1,4 +1,4 @@
-[![Alejo's GitHub stats](https://github-readme-stats-4yy6z62yk-alejomafs-projects.vercel.app/api?username=alejomaf)](https://github-readme-stats-4yy6z62yk-alejomafs-projects.vercel.app)
+[![Alejo's GitHub stats](https://github-readme-stats-4yy6z62yk-alejomafs-projects.vercel.app/api?username=alejomaf)](https://github-readme-stats-4yy6z62yk-alejomafs-projects.vercel.app/api?username=alejomaf)
 # Alejo Martín Arias Filippo (alejomaf)
 
 ---
