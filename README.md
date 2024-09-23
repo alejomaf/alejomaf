@@ -12,12 +12,12 @@
   <tr>
     <td>
       <a href="https://github-readme-stats-kohl-five-71.vercel.app/api?username=alejomaf">
-        <img src="https://github-readme-stats-kohl-five-71.vercel.app/api?username=alejomaf" alt="Alejo's GitHub stats" width="450"/>
+        <img src="https://github-readme-stats-kohl-five-71.vercel.app/api?username=alejomaf" alt="Alejo's GitHub stats" height="300"/>
       </a>
     </td>
     <td>
       <a href="https://github-readme-stats-kohl-five-71.vercel.app/api/top-langs/?username=alejomaf&hide=html,css,jupyter%20notebook">
-        <img src="https://github-readme-stats-kohl-five-71.vercel.app/api/top-langs/?username=alejomaf&hide=html,css,jupyter%20notebook&layout=compact" alt="Most Used Languages" width="450"/>
+        <img src="https://github-readme-stats-kohl-five-71.vercel.app/api/top-langs/?username=alejomaf&hide=html,css,jupyter%20notebook&layout=compact" alt="Most Used Languages" height="300"/>
       </a>
     </td>
   </tr>
